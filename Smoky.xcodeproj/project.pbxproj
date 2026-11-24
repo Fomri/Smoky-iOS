@@ -16,6 +16,11 @@
 			path = Smoky;
 			sourceTree = "<group>";
 		};
+		FCF7B2AF30B5101F0086F3DC /* HTML demo */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "HTML demo";
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -34,6 +39,7 @@
 			children = (
 				FCF7B2A030B50D0E0086F3DC /* Smoky */,
 				FCF7B29F30B50D0E0086F3DC /* Products */,
+				FCF7B2AF30B5101F0086F3DC /* HTML demo */,
 			);
 			sourceTree = "<group>";
 		};
@@ -62,6 +68,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				FCF7B2A030B50D0E0086F3DC /* Smoky */,
+				FCF7B2AF30B5101F0086F3DC /* HTML demo */,
 			);
 			name = Smoky;
 			packageProductDependencies = (
